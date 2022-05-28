@@ -4,7 +4,7 @@ I'm a backend developer who is passionate about making contributng to comiunity.
 I enjoy working with people, creating new technology that can help people.
 
 I have experience in web development, developing school projects where we worked in groups, in which we learned new skills such as: 
-- Metodologias Agiles (scrum)
+- Agile Methodologies (scrum)
 - HTML5
 - CSS3
 - JavaScript
