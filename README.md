@@ -1,4 +1,4 @@
-# Hi i'm Mikell Bobadilla 👋🏾 👩🏾‍💻
+# Hi i'm Mikell Bobadilla 👋
 
 I'm a backend developer who is passionate about making contributng to comiunity.
 I enjoy working with people, creating new technology that can help people.
