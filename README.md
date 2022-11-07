@@ -1,17 +1,19 @@
-# Hi i'm Mikell Bobadilla 👋
+# Mikell Bobadilla (Backend Developer) ✌️
 
-I'm a backend developer who is passionate about making contributng to comiunity.
-I enjoy working with people, creating new technology that can help people.
+**My Skills:**
 
-I have experience in web development, developing school projects where we worked in groups, in which we learned new skills such as: 
-- Agile Methodologies (scrum)
-- HTML5
-- CSS3
+- nodejs with express
+- Jsonwebtoken
+- How to work client-server
+- knowledge about API-REST
 - JavaScript
+- Java
+- C
+- Imperative Programing
+- HTML-CSS
+- UML Diagram
+- Databa bases with query language (SQL)
+- mysql - postgre
+- typeScript(basic)
 
-I am currently learning backend development. I discovered that this is what I am most passionate about and I want to grow more and more every day. 
-
-<!---
-mikellbobadilla/mikellbobadilla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am constantly learning new technologies, although I always wonder what things I will be able to build in the future 🤔.
